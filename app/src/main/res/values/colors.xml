@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- AnalogClock customView colors -->
+    <color name="clock_background_color">#007C68</color>
+    <color name="clock_ring_color">#007C68</color>
+    <color name="clock_big_scale_color">#007C68</color>
+    <color name="clock_small_scale_color">#007C68</color>
+    <color name="clock_numbers_color">#4FDCFF</color>
+    <color name="clock_hour_hand_color">#13594A</color>
+    <color name="clock_minute_hand_color">#94D600</color>
+    <color name="clock_second_hand_color">#D00062</color>
+</resources>

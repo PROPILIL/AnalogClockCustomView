@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AnalogClock">
+        <!--Ring color-->
+        <attr name="clock_ring_color" format="color" />
+        <!--Clock color-->
+        <attr name="clock_hour_color" format="color"/>
+        <!--Minute color-->
+        <attr name="clock_minute_color" format="color"/>
+        <!--Second color-->
+        <attr name="clock_second_color" format="color"/>
+        <!--Large scale color-->
+        <attr name="clock_big_scale_color" format="color"/>
+        <!--Small scale color-->
+        <attr name="clock_small_scale_color" format="color"/>
+        <!--Text color-->
+        <attr name="clock_text_color" format="color"/>
+        <!--Whether the dial color is full (the color of the ring)-->/>
+    </declare-styleable>
+</resources>
