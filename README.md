@@ -1,3 +1,3 @@
 # AnalogClockCustomView
 
-![image](https://user-images.githubusercontent.com/83790466/184817282-b6094589-55b0-4f5a-9c27-06ad7c4ac74e.png)
+![image](https://user-images.githubusercontent.com/83790466/184817609-9287c622-df91-4cdb-931a-710fa7c6ac95.png)
